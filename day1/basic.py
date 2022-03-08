@@ -4,7 +4,7 @@ Created on Wed Mar  2 21:11:05 2022
 
 @author: reshm
 """
-
+#class object creation
 class Car():
     def __init__(self,model,color):
         self.model=model
