@@ -17,7 +17,7 @@ class Student:
         return self.name
 student1=Student("ANU",45)
 student2= Student("MANJU",30)
-print("Showing results\n ")
+print("Showing results\n")
 print( student1.get_name(),student1.did_pass())
 print(student2.get_name(),student2.did_pass())
 
